@@ -17,8 +17,12 @@ public class MainMenu : MonoBehaviour
         
     }
 
-    public void escenaJuego() {
-        SceneManager.LoadScene("Mapa"); 
+    public void escenaNiveles() {
+        SceneManager.LoadScene("Niveles"); 
+    }
+
+    public void escenaOpciones() {
+
     }
 
     public void salirJuego() {
