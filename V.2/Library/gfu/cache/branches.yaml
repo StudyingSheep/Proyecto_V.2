@@ -13,15 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-10-26T01:26:40.374-05:00
-  initializedAtString: 2022-10-25T20:26:20.645-05:00
+  lastUpdatedAtString: 2022-11-04T23:09:16.351-06:00
+  initializedAtString: 2022-11-04T22:51:02.286-06:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -46,15 +44,9 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - main
     subKeyValues:
     - Values:
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/StudyingSheep/Proyecto_V.2.git
-        trackingBranch: 
-      - name: main
         remote:
           name: origin
           url: https://github.com/StudyingSheep/Proyecto_V.2.git

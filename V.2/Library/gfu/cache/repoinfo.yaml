@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-10-26T01:26:40.350-05:00
-  initializedAtString: 2022-10-25T20:24:25.240-05:00
+  lastUpdatedAtString: 2022-11-04T22:51:01.005-06:00
+  initializedAtString: 2022-11-04T22:51:01.005-06:00
   currentGitRemote:
     name: origin
     url: https://github.com/StudyingSheep/Proyecto_V.2.git
