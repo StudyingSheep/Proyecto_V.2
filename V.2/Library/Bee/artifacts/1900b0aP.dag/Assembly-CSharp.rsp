@@ -312,6 +312,7 @@
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.ref.dll"
+"Assets/Script/Codigos Notas/ActivadorNotas.cs"
 "Assets/Script/Codigos Opciones/LogicaBrillo.cs"
 "Assets/Script/Codigos Opciones/LogicaCalidad.cs"
 "Assets/Script/Codigos Opciones/LogicaPantallaCompleta.cs"
