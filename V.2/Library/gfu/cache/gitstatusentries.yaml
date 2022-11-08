@@ -13,574 +13,90 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-11-05T01:20:30.404-06:00
-  initializedAtString: 2022-11-05T01:20:30.404-06:00
+  lastUpdatedAtString: 2022-11-08T07:21:36.121-06:00
+  initializedAtString: 2022-11-08T07:21:00.542-06:00
   entries:
-  - path: V.2\Assets\Cosas Menu\Fuentes\The Deliver SDF.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Cosas
-      Menu\Fuentes\The Deliver SDF.asset
-    projectPath: Assets\Cosas Menu\Fuentes\The Deliver SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Assets\Materiales\Notas.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Materiales\Notas.meta
-    projectPath: Assets\Materiales\Notas.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Materiales\Notas\Fondo.jpg
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Materiales\Notas\Fondo.jpg
-    projectPath: Assets\Materiales\Notas\Fondo.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Materiales\Notas\Fondo.jpg.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Materiales\Notas\Fondo.jpg.meta
-    projectPath: Assets\Materiales\Notas\Fondo.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Materiales\Notas\Pinos.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Materiales\Notas\Pinos.meta
-    projectPath: Assets\Materiales\Notas\Pinos.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Materiales\Notas\Pinos\Pinos1.jpg
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Materiales\Notas\Pinos\Pinos1.jpg
-    projectPath: Assets\Materiales\Notas\Pinos\Pinos1.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Materiales\Notas\Pinos\Pinos1.jpg.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Materiales\Notas\Pinos\Pinos1.jpg.meta
-    projectPath: Assets\Materiales\Notas\Pinos\Pinos1.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Materiales\Notas\Pinos\Pinos2.jpg
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Materiales\Notas\Pinos\Pinos2.jpg
-    projectPath: Assets\Materiales\Notas\Pinos\Pinos2.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Materiales\Notas\Pinos\Pinos2.jpg.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Materiales\Notas\Pinos\Pinos2.jpg.meta
-    projectPath: Assets\Materiales\Notas\Pinos\Pinos2.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Scenes\Mapa.unity
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Scenes\Mapa.unity
-    projectPath: Assets\Scenes\Mapa.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Assets\Script\Codigos Notas.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Script\Codigos
-      Notas.meta
-    projectPath: Assets\Script\Codigos Notas.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Script\Codigos Notas\ActivadorNotaPino.cs
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Script\Codigos
-      Notas\ActivadorNotaPino.cs
-    projectPath: Assets\Script\Codigos Notas\ActivadorNotaPino.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Script\Codigos Notas\ActivadorNotaPino.cs.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Script\Codigos
-      Notas\ActivadorNotaPino.cs.meta
-    projectPath: Assets\Script\Codigos Notas\ActivadorNotaPino.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
-      SDF.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\TextMesh
-      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
-      SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
-      SDF.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\TextMesh
-      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
-      SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
-      Highway Sign SDF.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\TextMesh
-      Pro\Examples & Extras\Resources\Fonts & Materials\Electronic Highway Sign SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
-      Highway Sign SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
-      Bold SDF.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\TextMesh
-      Pro\Examples & Extras\Resources\Fonts & Materials\Oswald Bold SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
-      Bold SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
-      SDF.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\TextMesh
-      Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
-      SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: V.2\Library\ArtifactDB
     fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: V.2\Library\Artifacts\0f\0f06bc262ba903379e9b80d92a3690e4
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\0f\0f06bc262ba903379e9b80d92a3690e4
-    projectPath: Library\Artifacts\0f\0f06bc262ba903379e9b80d92a3690e4
+  - path: V.2\Library\Artifacts\34\3435852b0f8593d687bbb864d4134caa
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\34\3435852b0f8593d687bbb864d4134caa
+    projectPath: Library\Artifacts\34\3435852b0f8593d687bbb864d4134caa
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\10\10159d3e0587c3883cf644ac245b4f68
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\10\10159d3e0587c3883cf644ac245b4f68
-    projectPath: Library\Artifacts\10\10159d3e0587c3883cf644ac245b4f68
+  - path: V.2\Library\Artifacts\37\3757c5018c71478339c0f6a04d52707c
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\37\3757c5018c71478339c0f6a04d52707c
+    projectPath: Library\Artifacts\37\3757c5018c71478339c0f6a04d52707c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\10\10adc76cab7cb4bc248531450545fb8e
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\10\10adc76cab7cb4bc248531450545fb8e
-    projectPath: Library\Artifacts\10\10adc76cab7cb4bc248531450545fb8e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\11\1159dc30136d5a1fa501e10ef330bdd5
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\11\1159dc30136d5a1fa501e10ef330bdd5
-    projectPath: Library\Artifacts\11\1159dc30136d5a1fa501e10ef330bdd5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\12\125374f09fc0ed53511271ebd9d7b5a5
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\12\125374f09fc0ed53511271ebd9d7b5a5
-    projectPath: Library\Artifacts\12\125374f09fc0ed53511271ebd9d7b5a5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\1c\1c03d634e0d3320de90a1240673bb737
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\1c\1c03d634e0d3320de90a1240673bb737
-    projectPath: Library\Artifacts\1c\1c03d634e0d3320de90a1240673bb737
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\1d\1d155a17d6a56f745b9b825bbb2b3ff9
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\1d\1d155a17d6a56f745b9b825bbb2b3ff9
-    projectPath: Library\Artifacts\1d\1d155a17d6a56f745b9b825bbb2b3ff9
+  - path: V.2\Library\Artifacts\43\436fb5deacc6cc68838ff08a486866ed
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\43\436fb5deacc6cc68838ff08a486866ed
+    projectPath: Library\Artifacts\43\436fb5deacc6cc68838ff08a486866ed
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\23\239865faa770e466eb40329ffd060813
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\23\239865faa770e466eb40329ffd060813
-    projectPath: Library\Artifacts\23\239865faa770e466eb40329ffd060813
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\24\24d41e851f0700b37de63258f01cf8a0
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\24\24d41e851f0700b37de63258f01cf8a0
-    projectPath: Library\Artifacts\24\24d41e851f0700b37de63258f01cf8a0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\25\25eca7d5896fb354e4d0b87117d7eefd
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\25\25eca7d5896fb354e4d0b87117d7eefd
-    projectPath: Library\Artifacts\25\25eca7d5896fb354e4d0b87117d7eefd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\27\2721ca3cef4d0d26d9904b9d5299fef7
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\27\2721ca3cef4d0d26d9904b9d5299fef7
-    projectPath: Library\Artifacts\27\2721ca3cef4d0d26d9904b9d5299fef7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\29\2913d8d8f0bcabb87dfe16fa3805d122
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\29\2913d8d8f0bcabb87dfe16fa3805d122
-    projectPath: Library\Artifacts\29\2913d8d8f0bcabb87dfe16fa3805d122
+  - path: V.2\Library\Artifacts\55\559122e5234fb9cb775c357c8cb2a34c
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\55\559122e5234fb9cb775c357c8cb2a34c
+    projectPath: Library\Artifacts\55\559122e5234fb9cb775c357c8cb2a34c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\2b\2b3456df939dbe8816d8bec31064a692
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\2b\2b3456df939dbe8816d8bec31064a692
-    projectPath: Library\Artifacts\2b\2b3456df939dbe8816d8bec31064a692
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\2b\2bb4c1dc950137fe2c7558cc06ffbc97
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\2b\2bb4c1dc950137fe2c7558cc06ffbc97
-    projectPath: Library\Artifacts\2b\2bb4c1dc950137fe2c7558cc06ffbc97
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\2d\2d6164343a223fac7b7e65a30b7acafb
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\2d\2d6164343a223fac7b7e65a30b7acafb
-    projectPath: Library\Artifacts\2d\2d6164343a223fac7b7e65a30b7acafb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\2d\2ddd230af1f2efc328b3410bf36ce9a4
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\2d\2ddd230af1f2efc328b3410bf36ce9a4
-    projectPath: Library\Artifacts\2d\2ddd230af1f2efc328b3410bf36ce9a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\34\341e30e234b99f412c2deb6298480a18
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\34\341e30e234b99f412c2deb6298480a18
-    projectPath: Library\Artifacts\34\341e30e234b99f412c2deb6298480a18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\37\3702b6270aad07db344990019c421e5b
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\37\3702b6270aad07db344990019c421e5b
-    projectPath: Library\Artifacts\37\3702b6270aad07db344990019c421e5b
+  - path: V.2\Library\Artifacts\61\61db0c8b7ceee51ad97ebc0218d08b89
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\61\61db0c8b7ceee51ad97ebc0218d08b89
+    projectPath: Library\Artifacts\61\61db0c8b7ceee51ad97ebc0218d08b89
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\3c\3ccd72663bd61eb2c03a2be51af5b8db
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\3c\3ccd72663bd61eb2c03a2be51af5b8db
-    projectPath: Library\Artifacts\3c\3ccd72663bd61eb2c03a2be51af5b8db
+  - path: V.2\Library\Artifacts\7a\7a556d953d57ed7ea55316949fc73d3e
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\7a\7a556d953d57ed7ea55316949fc73d3e
+    projectPath: Library\Artifacts\7a\7a556d953d57ed7ea55316949fc73d3e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\3f\3ff25be063ddd00126623d3fe15645d3
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\3f\3ff25be063ddd00126623d3fe15645d3
-    projectPath: Library\Artifacts\3f\3ff25be063ddd00126623d3fe15645d3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\41\41f824848625e62d0eabea807313ba18
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\41\41f824848625e62d0eabea807313ba18
-    projectPath: Library\Artifacts\41\41f824848625e62d0eabea807313ba18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\41\41faa03b5fa4c15860fe2ad7cc4b3710
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\41\41faa03b5fa4c15860fe2ad7cc4b3710
-    projectPath: Library\Artifacts\41\41faa03b5fa4c15860fe2ad7cc4b3710
+  - path: V.2\Library\Artifacts\7e\7e3b2b22de5571761fa914227ddc39b1
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\7e\7e3b2b22de5571761fa914227ddc39b1
+    projectPath: Library\Artifacts\7e\7e3b2b22de5571761fa914227ddc39b1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\43\4312166f0ddf09674045e28d6842302f
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\43\4312166f0ddf09674045e28d6842302f
-    projectPath: Library\Artifacts\43\4312166f0ddf09674045e28d6842302f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\43\43788758852e11f6f05e3e0fbf67e8f0
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\43\43788758852e11f6f05e3e0fbf67e8f0
-    projectPath: Library\Artifacts\43\43788758852e11f6f05e3e0fbf67e8f0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\47\47c3237acd84804d5391345c3f7bdd8e
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\47\47c3237acd84804d5391345c3f7bdd8e
-    projectPath: Library\Artifacts\47\47c3237acd84804d5391345c3f7bdd8e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\4b\4b8e7d94fedfc96e7b66fcecb32c164c
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\4b\4b8e7d94fedfc96e7b66fcecb32c164c
-    projectPath: Library\Artifacts\4b\4b8e7d94fedfc96e7b66fcecb32c164c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\57\5752b26b0f1b8ecab38d5a97a71b1909
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\57\5752b26b0f1b8ecab38d5a97a71b1909
-    projectPath: Library\Artifacts\57\5752b26b0f1b8ecab38d5a97a71b1909
+  - path: V.2\Library\Artifacts\80\80dbf7b0a898f8e416a75e43b33afd66
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\80\80dbf7b0a898f8e416a75e43b33afd66
+    projectPath: Library\Artifacts\80\80dbf7b0a898f8e416a75e43b33afd66
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\5c\5cb790f95dbdc212e5c667ffbb69068a
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\5c\5cb790f95dbdc212e5c667ffbb69068a
-    projectPath: Library\Artifacts\5c\5cb790f95dbdc212e5c667ffbb69068a
+  - path: V.2\Library\Artifacts\81\818f2e82a4fb55310db59fc43b56352e
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\81\818f2e82a4fb55310db59fc43b56352e
+    projectPath: Library\Artifacts\81\818f2e82a4fb55310db59fc43b56352e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\62\62bada757c7fc28b7e4ad2fe92342c25
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\62\62bada757c7fc28b7e4ad2fe92342c25
-    projectPath: Library\Artifacts\62\62bada757c7fc28b7e4ad2fe92342c25
+  - path: V.2\Library\Artifacts\8b\8b9ca4b9349382bfb22c7ef3cb02000c
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\8b\8b9ca4b9349382bfb22c7ef3cb02000c
+    projectPath: Library\Artifacts\8b\8b9ca4b9349382bfb22c7ef3cb02000c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\68\6878d04993be129b87be31643e5d3343
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\68\6878d04993be129b87be31643e5d3343
-    projectPath: Library\Artifacts\68\6878d04993be129b87be31643e5d3343
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\69\69af50b5934d58211b540a52d72ba27e
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\69\69af50b5934d58211b540a52d72ba27e
-    projectPath: Library\Artifacts\69\69af50b5934d58211b540a52d72ba27e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\6a\6ad58a3d1da2a7a824bbf07933157287
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\6a\6ad58a3d1da2a7a824bbf07933157287
-    projectPath: Library\Artifacts\6a\6ad58a3d1da2a7a824bbf07933157287
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\6b\6b7d341f286cd33458cbf868c68ca534
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\6b\6b7d341f286cd33458cbf868c68ca534
-    projectPath: Library\Artifacts\6b\6b7d341f286cd33458cbf868c68ca534
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\6c\6cbaf0f90109a2b74474188526bf7e77
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\6c\6cbaf0f90109a2b74474188526bf7e77
-    projectPath: Library\Artifacts\6c\6cbaf0f90109a2b74474188526bf7e77
+  - path: V.2\Library\Artifacts\ef\ef6164297cafda81cc65ab15a909a3b4
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\ef\ef6164297cafda81cc65ab15a909a3b4
+    projectPath: Library\Artifacts\ef\ef6164297cafda81cc65ab15a909a3b4
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\79\795fbeb6086d8aecce9509ebe6353c31
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\79\795fbeb6086d8aecce9509ebe6353c31
-    projectPath: Library\Artifacts\79\795fbeb6086d8aecce9509ebe6353c31
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\7a\7a68bc0e3667b8d046cf10cce2b8726d
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\7a\7a68bc0e3667b8d046cf10cce2b8726d
-    projectPath: Library\Artifacts\7a\7a68bc0e3667b8d046cf10cce2b8726d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\80\80bff839bf18c22b3477a6d289c7e8d4
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\80\80bff839bf18c22b3477a6d289c7e8d4
-    projectPath: Library\Artifacts\80\80bff839bf18c22b3477a6d289c7e8d4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\86\86eaf0ce295db817f8b804f39c1b11fe
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\86\86eaf0ce295db817f8b804f39c1b11fe
-    projectPath: Library\Artifacts\86\86eaf0ce295db817f8b804f39c1b11fe
+  - path: V.2\Library\Artifacts\ef\efe05892a3fe456e92c1d071aa6c4069
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\ef\efe05892a3fe456e92c1d071aa6c4069
+    projectPath: Library\Artifacts\ef\efe05892a3fe456e92c1d071aa6c4069
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\87\87dee4b12e8f08720b54521ec6ef02ca
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\87\87dee4b12e8f08720b54521ec6ef02ca
-    projectPath: Library\Artifacts\87\87dee4b12e8f08720b54521ec6ef02ca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\8e\8e3cc0569065b507c226dc3a5a81dc00
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\8e\8e3cc0569065b507c226dc3a5a81dc00
-    projectPath: Library\Artifacts\8e\8e3cc0569065b507c226dc3a5a81dc00
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\8e\8e7aaf2b238afbaef90b61655b6e686e
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\8e\8e7aaf2b238afbaef90b61655b6e686e
-    projectPath: Library\Artifacts\8e\8e7aaf2b238afbaef90b61655b6e686e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\91\912297cf970fd27914a69623ce3a4b54
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\91\912297cf970fd27914a69623ce3a4b54
-    projectPath: Library\Artifacts\91\912297cf970fd27914a69623ce3a4b54
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\aa\aa9e9efcbb6b53adf5fb8e22c666636a
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\aa\aa9e9efcbb6b53adf5fb8e22c666636a
-    projectPath: Library\Artifacts\aa\aa9e9efcbb6b53adf5fb8e22c666636a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\aa\aad77ba6052e09912d42ddae5e81b4eb
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\aa\aad77ba6052e09912d42ddae5e81b4eb
-    projectPath: Library\Artifacts\aa\aad77ba6052e09912d42ddae5e81b4eb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\b1\b1048f9fbd95d0921479fdd760ca52e7
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\b1\b1048f9fbd95d0921479fdd760ca52e7
-    projectPath: Library\Artifacts\b1\b1048f9fbd95d0921479fdd760ca52e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\b3\b3e3e1484895066418c7cccf3a927a8c
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\b3\b3e3e1484895066418c7cccf3a927a8c
-    projectPath: Library\Artifacts\b3\b3e3e1484895066418c7cccf3a927a8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\Library\Artifacts\b4\b49f9b24a1f31ccaed6c46b18ab82301
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\b4\b49f9b24a1f31ccaed6c46b18ab82301
-    projectPath: Library\Artifacts\b4\b49f9b24a1f31ccaed6c46b18ab82301
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\c1\c198a3cf63ab84a8120e301ab11a29a4
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\c1\c198a3cf63ab84a8120e301ab11a29a4
-    projectPath: Library\Artifacts\c1\c198a3cf63ab84a8120e301ab11a29a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\c7\c7572df01fe060a8624c7d1b9897a2a2
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\c7\c7572df01fe060a8624c7d1b9897a2a2
-    projectPath: Library\Artifacts\c7\c7572df01fe060a8624c7d1b9897a2a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\d5\d58d85f5d1a21eea0f2677b3d3e30741
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\d5\d58d85f5d1a21eea0f2677b3d3e30741
-    projectPath: Library\Artifacts\d5\d58d85f5d1a21eea0f2677b3d3e30741
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\d7\d7b8f92674227fdf60c2e45c082e525a
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\d7\d7b8f92674227fdf60c2e45c082e525a
-    projectPath: Library\Artifacts\d7\d7b8f92674227fdf60c2e45c082e525a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\dd\dd9676a4d00d6c3b01aa288455ca8e59
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\dd\dd9676a4d00d6c3b01aa288455ca8e59
-    projectPath: Library\Artifacts\dd\dd9676a4d00d6c3b01aa288455ca8e59
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\e0\e0113a3b46b347862807ed9d648961c3
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\e0\e0113a3b46b347862807ed9d648961c3
-    projectPath: Library\Artifacts\e0\e0113a3b46b347862807ed9d648961c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\e3\e32274ad0c75f565e2fea7531985c376
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\e3\e32274ad0c75f565e2fea7531985c376
-    projectPath: Library\Artifacts\e3\e32274ad0c75f565e2fea7531985c376
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\e3\e349b34b77b3e56d735766f28bc88061
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\e3\e349b34b77b3e56d735766f28bc88061
-    projectPath: Library\Artifacts\e3\e349b34b77b3e56d735766f28bc88061
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\e3\e3d8002e8f9698df965645f8d4086686
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\e3\e3d8002e8f9698df965645f8d4086686
-    projectPath: Library\Artifacts\e3\e3d8002e8f9698df965645f8d4086686
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\e7\e7c4f8145c30ffaf202847dffe7c331b
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\e7\e7c4f8145c30ffaf202847dffe7c331b
-    projectPath: Library\Artifacts\e7\e7c4f8145c30ffaf202847dffe7c331b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\Library\Artifacts\f8\f84f7b22a3521960409374ab64b1a05a
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\f8\f84f7b22a3521960409374ab64b1a05a
-    projectPath: Library\Artifacts\f8\f84f7b22a3521960409374ab64b1a05a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\Library\Artifacts\fa\fa8c4d640da8946c6e8cb13b3939ad79
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\fa\fa8c4d640da8946c6e8cb13b3939ad79
-    projectPath: Library\Artifacts\fa\fa8c4d640da8946c6e8cb13b3939ad79
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\fd\fd05ec7b55bd07eb26bc171840dec22d
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\fd\fd05ec7b55bd07eb26bc171840dec22d
-    projectPath: Library\Artifacts\fd\fd05ec7b55bd07eb26bc171840dec22d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\ff\ff2c49981ef3fb4d9e3873f6bcac23da
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\ff\ff2c49981ef3fb4d9e3873f6bcac23da
-    projectPath: Library\Artifacts\ff\ff2c49981ef3fb4d9e3873f6bcac23da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Bee\1900b0aE.dag
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag
-    projectPath: Library\Bee\1900b0aE.dag
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Bee\1900b0aE.dag.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag.json
-    projectPath: Library\Bee\1900b0aE.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Bee\1900b0aE.dag_derived
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag_derived
-    projectPath: Library\Bee\1900b0aE.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Bee\1900b0aE-inputdata.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE-inputdata.json
-    projectPath: Library\Bee\1900b0aE-inputdata.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: V.2\Library\Bee\backend_profiler0.traceevents
     fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\backend_profiler0.traceevents
     projectPath: Library\Bee\backend_profiler0.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Bee\backend_profiler1.traceevents
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\backend_profiler1.traceevents
-    projectPath: Library\Bee\backend_profiler1.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Bee\buildprogram0.traceevents
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\buildprogram0.traceevents
-    projectPath: Library\Bee\buildprogram0.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -632,6 +148,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: V.2\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: V.2\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: V.2\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
@@ -650,33 +178,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: V.2\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\Search\transactions.db
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Search\transactions.db
-    projectPath: Library\Search\transactions.db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: V.2\Library\SourceAssetDB
     fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -685,7 +189,7 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: V.2\Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
@@ -697,82 +201,22 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker1.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: V.2\Logs\AssetImportWorker1-prev.log
     fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: V.2\Logs\AssetImportWorker2.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker2.log
-    projectPath: Logs\AssetImportWorker2.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Logs\AssetImportWorker2-prev.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker2-prev.log
-    projectPath: Logs\AssetImportWorker2-prev.log
+  - path: V.2\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Logs\AssetImportWorker3-prev.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker3-prev.log
-    projectPath: Logs\AssetImportWorker3-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\Logs\AssetImportWorker4-prev.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker4-prev.log
-    projectPath: Logs\AssetImportWorker4-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\Logs\AssetImportWorker5-prev.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker5-prev.log
-    projectPath: Logs\AssetImportWorker5-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\Logs\AssetImportWorker6-prev.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker6-prev.log
-    projectPath: Logs\AssetImportWorker6-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Temp\FSTimeGet-0f1c0fda43ebeca4fa92cd51b85d3c08
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-0f1c0fda43ebeca4fa92cd51b85d3c08
-    projectPath: Temp\FSTimeGet-0f1c0fda43ebeca4fa92cd51b85d3c08
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Temp\FSTimeGet-3f477c8b70668ee47afa93495d74de96
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-3f477c8b70668ee47afa93495d74de96
-    projectPath: Temp\FSTimeGet-3f477c8b70668ee47afa93495d74de96
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Temp\FSTimeGet-76e9bdf43c2d13444a4b361856bfc3f2
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-76e9bdf43c2d13444a4b361856bfc3f2
-    projectPath: Temp\FSTimeGet-76e9bdf43c2d13444a4b361856bfc3f2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Temp\FSTimeGet-f0c8beac2ecd30442ba6811be1156056
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-f0c8beac2ecd30442ba6811be1156056
-    projectPath: Temp\FSTimeGet-f0c8beac2ecd30442ba6811be1156056
+  - path: V.2\Temp\FSTimeGet-57c62dbfcd0cc2c48b39068d4d288459
+    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-57c62dbfcd0cc2c48b39068d4d288459
+    projectPath: Temp\FSTimeGet-57c62dbfcd0cc2c48b39068d4d288459
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

@@ -37,7 +37,7 @@ public class LogicaPantallaCompleta : MonoBehaviour {
         int resolucionActual = 0; 
 
         for (int i = 0; i < resoluciones.Length; i++) {
-            string opcion = resoluciones[i].width + " x " + resoluciones[i].height;
+            string opcion = resoluciones[i].width + " x " + resoluciones[i].height + " @ " + resoluciones[i].refreshRate + "hz";
             opciones.Add(opcion); 
 
             if(Screen.fullScreen && resoluciones[i].width == Screen.currentResolution.width && 
