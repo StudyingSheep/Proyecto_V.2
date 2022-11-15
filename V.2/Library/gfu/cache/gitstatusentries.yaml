@@ -13,1402 +13,1278 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-11-11T22:42:08.649-06:00
-  initializedAtString: 2022-11-11T22:40:01.685-06:00
+  lastUpdatedAtString: 2022-11-15T07:52:49.992-06:00
+  initializedAtString: 2022-11-15T07:34:46.528-06:00
   entries:
-  - path: V.2\Assets\Script\Codigos Entorno.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Script\Codigos
-      Entorno.meta
-    projectPath: Assets\Script\Codigos Entorno.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Script\Codigos Entorno\DiaNoche.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Script\Codigos
-      Entorno\DiaNoche.meta
-    projectPath: Assets\Script\Codigos Entorno\DiaNoche.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Script\Codigos Entorno\DiaNoche\CicloDiaNoche.cs
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Script\Codigos
-      Entorno\DiaNoche\CicloDiaNoche.cs
-    projectPath: Assets\Script\Codigos Entorno\DiaNoche\CicloDiaNoche.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Assets\Script\Codigos Entorno\DiaNoche\CicloDiaNoche.cs.meta
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Assets\Script\Codigos
-      Entorno\DiaNoche\CicloDiaNoche.cs.meta
-    projectPath: Assets\Script\Codigos Entorno\DiaNoche\CicloDiaNoche.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: V.2\Library\ArtifactDB
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ArtifactDB
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Artifacts\1c\1cce72f187011814360df17301c61364
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\1c\1cce72f187011814360df17301c61364
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Artifacts\1c\1cce72f187011814360df17301c61364
     projectPath: Library\Artifacts\1c\1cce72f187011814360df17301c61364
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\4f\4faa6da73bf64f2f71a6a5c4349b19e7
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\4f\4faa6da73bf64f2f71a6a5c4349b19e7
-    projectPath: Library\Artifacts\4f\4faa6da73bf64f2f71a6a5c4349b19e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\6c\6cbaf0f90109a2b74474188526bf7e77
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\6c\6cbaf0f90109a2b74474188526bf7e77
-    projectPath: Library\Artifacts\6c\6cbaf0f90109a2b74474188526bf7e77
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\6f\6fb7b2ea03d56c66fda2ab1b9a1c92a3
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\6f\6fb7b2ea03d56c66fda2ab1b9a1c92a3
-    projectPath: Library\Artifacts\6f\6fb7b2ea03d56c66fda2ab1b9a1c92a3
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: V.2\Library\Artifacts\8e\8e01da9d0f02c00183b2506a2c1d680c
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\8e\8e01da9d0f02c00183b2506a2c1d680c
-    projectPath: Library\Artifacts\8e\8e01da9d0f02c00183b2506a2c1d680c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\bb\bb501b59b1eb8d6dee58fb24600bfce0
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\bb\bb501b59b1eb8d6dee58fb24600bfce0
-    projectPath: Library\Artifacts\bb\bb501b59b1eb8d6dee58fb24600bfce0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\Library\Artifacts\f7\f7af2142ac1fb57cbab7127441434f19
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\f7\f7af2142ac1fb57cbab7127441434f19
-    projectPath: Library\Artifacts\f7\f7af2142ac1fb57cbab7127441434f19
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Artifacts\f9\f9638e1accbfb880a1ab099e227cac7a
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\f9\f9638e1accbfb880a1ab099e227cac7a
-    projectPath: Library\Artifacts\f9\f9638e1accbfb880a1ab099e227cac7a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: V.2\Library\Artifacts\ff\ff2c49981ef3fb4d9e3873f6bcac23da
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Artifacts\ff\ff2c49981ef3fb4d9e3873f6bcac23da
-    projectPath: Library\Artifacts\ff\ff2c49981ef3fb4d9e3873f6bcac23da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: V.2\Library\Bee\1900b0aE.dag
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag
     projectPath: Library\Bee\1900b0aE.dag
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\1900b0aE.dag.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag.json
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag.json
     projectPath: Library\Bee\1900b0aE.dag.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\1900b0aE.dag.outputdata
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag.outputdata
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag.outputdata
     projectPath: Library\Bee\1900b0aE.dag.outputdata
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\1900b0aE.dag_derived
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag_derived
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag_derived
     projectPath: Library\Bee\1900b0aE.dag_derived
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\1900b0aE.dag_fsmtime
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag_fsmtime
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE.dag_fsmtime
     projectPath: Library\Bee\1900b0aE.dag_fsmtime
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\1900b0aE-inputdata.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE-inputdata.json
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\1900b0aE-inputdata.json
     projectPath: Library\Bee\1900b0aE-inputdata.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Analytics.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Configuration.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Device.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.Internal.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Environments.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Internal.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Networking.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Registration.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Scheduler.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Telemetry.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Threading.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.mvfrm.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.mvfrm.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.mvfrm.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.mvfrm.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
     projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_6283B35BF854F5A0.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_6283B35BF854F5A0.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_6283B35BF854F5A0.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_6283B35BF854F5A0.mvfrm
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_DF7650B9B90DBDDD.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_DF7650B9B90DBDDD.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_DF7650B9B90DBDDD.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_DF7650B9B90DBDDD.mvfrm
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_04C8778132BAAF08.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_04C8778132BAAF08.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_04C8778132BAAF08.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_04C8778132BAAF08.mvfrm
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_5C0C71EFBA591D95.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_5C0C71EFBA591D95.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_5C0C71EFBA591D95.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_5C0C71EFBA591D95.mvfrm
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_335B0041A18AA979.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_335B0041A18AA979.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_335B0041A18AA979.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_335B0041A18AA979.mvfrm
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_B3D01D8D5A9BBFFC.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_B3D01D8D5A9BBFFC.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_B3D01D8D5A9BBFFC.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_B3D01D8D5A9BBFFC.mvfrm
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_61E3A7FF5E0A2A4F.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_61E3A7FF5E0A2A4F.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_61E3A7FF5E0A2A4F.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_61E3A7FF5E0A2A4F.mvfrm
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_D7F1131F664F21C2.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_D7F1131F664F21C2.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_D7F1131F664F21C2.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_D7F1131F664F21C2.mvfrm
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_190C02B4318EF752.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_190C02B4318EF752.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_190C02B4318EF752.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_190C02B4318EF752.mvfrm
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_99811FFFEAA00DD5.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_99811FFFEAA00DD5.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_99811FFFEAA00DD5.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_99811FFFEAA00DD5.mvfrm
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_0262F6AC29D2AFDD.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_0262F6AC29D2AFDD.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_0262F6AC29D2AFDD.mvfrm
     projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_0262F6AC29D2AFDD.mvfrm
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_81EDD96070C1995A.mvfrm
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_81EDD96070C1995A.mvfrm
-    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_81EDD96070C1995A.mvfrm
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_81EDD96070C1995A.mvfrm
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_81EDD96070C1995A.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_81EDD96070C1995A.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: V.2\Library\Bee\backend_profiler0.traceevents
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\backend_profiler0.traceevents
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\backend_profiler0.traceevents
     projectPath: Library\Bee\backend_profiler0.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\backend_profiler1.traceevents
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\backend_profiler1.traceevents
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\backend_profiler1.traceevents
     projectPath: Library\Bee\backend_profiler1.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\buildprogram0.traceevents
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\buildprogram0.traceevents
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\buildprogram0.traceevents
     projectPath: Library\Bee\buildprogram0.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\fullprofile.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\fullprofile.json
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\fullprofile.json
     projectPath: Library\Bee\fullprofile.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\tundra.digestcache
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\tundra.digestcache
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\tundra.digestcache
     projectPath: Library\Bee\tundra.digestcache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\tundra.log.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\tundra.log.json
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\tundra.log.json
     projectPath: Library\Bee\tundra.log.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\TundraBuildState.state
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\TundraBuildState.state
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\TundraBuildState.state
     projectPath: Library\Bee\TundraBuildState.state
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Bee\TundraBuildState.state.map
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Bee\TundraBuildState.state.map
     projectPath: Library\Bee\TundraBuildState.state.map
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\EditorInstance.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\EditorInstance.json
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: V.2\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: V.2\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: V.2\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Configuration.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Configuration.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Configuration.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Configuration.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Configuration.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Configuration.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Configuration.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Configuration.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Device.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Device.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Device.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Device.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Environments.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Environments.Internal.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Environments.Internal.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Environments.Internal.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Environments.Internal.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Internal.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Internal.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Internal.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Internal.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Networking.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Networking.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Networking.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Networking.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Registration.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Registration.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Registration.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Registration.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Scheduler.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Scheduler.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Scheduler.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Scheduler.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Telemetry.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Telemetry.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Telemetry.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Telemetry.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Services.Core.Threading.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Threading.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Services.Core.Threading.dll
     projectPath: Library\ScriptAssemblies\Unity.Services.Core.Threading.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Settings.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Settings.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
     projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
     projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\Search\transactions.db
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\Search\transactions.db
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\Search\transactions.db
     projectPath: Library\Search\transactions.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: V.2\Library\SourceAssetDB
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\SourceAssetDB
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: V.2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: V.2\Logs\AssetImportWorker0.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: V.2\Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: V.2\Logs\AssetImportWorker1.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker1.log
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: V.2\Logs\AssetImportWorker1-prev.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: V.2\Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: V.2\Temp\FSTimeGet-7351d18ec6ee76e47a2b1a2489179d5b
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-7351d18ec6ee76e47a2b1a2489179d5b
-    projectPath: Temp\FSTimeGet-7351d18ec6ee76e47a2b1a2489179d5b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Temp\FSTimeGet-94a5fd09ed2c65248adf127cf5b90698
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-94a5fd09ed2c65248adf127cf5b90698
-    projectPath: Temp\FSTimeGet-94a5fd09ed2c65248adf127cf5b90698
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: V.2\Temp\FSTimeGet-a9b28d1370c2fd44e92205eb82ad8c4f
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-a9b28d1370c2fd44e92205eb82ad8c4f
-    projectPath: Temp\FSTimeGet-a9b28d1370c2fd44e92205eb82ad8c4f
+    workTreeStatus: 5
+  - path: V.2\Temp\FSTimeGet-b0eb6d1390ec5b64fa1d40783cf2cab7
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Temp\FSTimeGet-b0eb6d1390ec5b64fa1d40783cf2cab7
+    projectPath: Temp\FSTimeGet-b0eb6d1390ec5b64fa1d40783cf2cab7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: V.2\Temp\PropertyDatabase_1265138678
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\PropertyDatabase_1265138678
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Temp\PropertyDatabase_1265138678
     projectPath: Temp\PropertyDatabase_1265138678
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: V.2\Temp\PropertyDatabase_2066312223
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\PropertyDatabase_2066312223
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Temp\PropertyDatabase_2066312223
     projectPath: Temp\PropertyDatabase_2066312223
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: V.2\Temp\UnityLockfile
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\UnityLockfile
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: V.2\Temp\workerlic
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\Temp\workerlic
+    fullPath: C:\Users\ITC\Documents\GitHub\Proyecto_V.2\V.2\Temp\workerlic
     projectPath: Temp\workerlic
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: V.2\UserSettings\Layouts\default-2022.dwlt
-    fullPath: C:\Users\LA MARINA\OneDrive\Documentos\GitHub\Proyecto_V.2\V.2\UserSettings\Layouts\default-2022.dwlt
-    projectPath: UserSettings\Layouts\default-2022.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
