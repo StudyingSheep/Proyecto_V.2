@@ -10,13 +10,10 @@ public class CamaraOrbital : MonoBehaviour
     public Transform seguir;
     public Vector2 sensibilidad; 
 
-    // Start is called before the first frame update
     void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked; 
+        //Cursor.lockState = CursorLockMode.Locked; 
     }
-
-    // Update is called once per frame
     void Update()
     {
         float mouseHorizontal = Input.GetAxis("Mouse X");
