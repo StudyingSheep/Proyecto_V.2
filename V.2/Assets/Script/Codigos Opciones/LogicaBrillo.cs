@@ -3,20 +3,20 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI; 
 public class LogicaBrillo : MonoBehaviour {
+    // Variables utilizadas
+    // -- Barra deslizadora para ajustar el brillo 
     public Slider slider;
+    // -- Valor numerico de la barra deslizadora 
     public float sliderValue;
+    // -- Imagen que aparece cuando el volumen esta en 0
     public Image panelBrillo; 
-    // Start is called before the first frame update
+    
     void Start() {
+        // Brillo que el usuario dejo la ultima vez que ajusto las opciones
         slider.value = PlayerPrefs.GetFloat("brillo", 0.5f);
         panelBrillo.color = new Color(panelBrillo.color.r, panelBrillo.color.g, panelBrillo.color.b, slider.value); 
     }
-
-    // Update is called once per frame
-    void Update() {
-        
-    }
-
+    // Modificacion de los valores del brillo por el usuario
     public void changeSlider(float valor) {
         sliderValue = valor;
         PlayerPrefs.SetFloat("brillo", sliderValue);
