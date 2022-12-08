@@ -24,6 +24,7 @@ public class PlayerMove : MonoBehaviour
     public bool avanzoSolo;
     public float impulsoGolpe = 10; 
 
+    // Cuando el juego inicie
     void Start() {
         puedoSaltar = false; 
         anim = GetComponent<Animator>();
@@ -43,10 +44,14 @@ public class PlayerMove : MonoBehaviour
             rb.velocity = transform.forward * impulsoGolpe; 
         }
     }
+
+    // Este método actualiza a cada momento y permite el movimiento general del jugador. 
     void Update() {
+        // Movimientos vertical y horizontal en sus respectivos ejes. 
         x = Input.GetAxis("Horizontal");
         y = Input.GetAxis("Vertical");
 
+        // Si se presiona botón izquierdo del mouse, entonces se detecta la animación de golpear
         if (Input.GetKeyDown(KeyCode.Mouse0) && puedoSaltar && !estoyAtacando) {
             anim.SetTrigger("Golpeo");
             estoyAtacando = true; 

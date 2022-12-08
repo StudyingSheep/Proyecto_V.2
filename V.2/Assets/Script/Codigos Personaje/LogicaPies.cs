@@ -5,15 +5,8 @@ using UnityEngine;
 public class LogicaPies : MonoBehaviour
 {
     public PlayerMove logicaPersonaje; 
-    void Start() {
-        
-    }
 
-
-    void Update() {
-        
-    }
-
+    // Metodos que detectan las colisiones entre la capsula puesta en los pies del jugador y el suelo. 
     private void OnTriggerStay(Collider other) {
         logicaPersonaje.puedoSaltar = true;
     }

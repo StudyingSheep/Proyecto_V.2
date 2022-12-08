@@ -5,18 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+    // Metodos para moverse entre escenas, estos son los botones del menu principal 
     public void escenaNiveles() {
         SceneManager.LoadScene("Niveles"); 
     }
