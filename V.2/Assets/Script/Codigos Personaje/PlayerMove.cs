@@ -7,7 +7,7 @@ public class PlayerMove : MonoBehaviour
     // Variables pára mover al personaje
     public float velocidadMovimiento = 5.0f;
     public float velocidadRotacion = 200.0f;
-    private Animator anim;
+    public Animator anim;
     public float x, y;
 
     // Variables para hacer que el personaje salte
