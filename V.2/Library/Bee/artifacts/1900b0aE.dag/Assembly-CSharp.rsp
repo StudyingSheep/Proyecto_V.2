@@ -361,6 +361,7 @@
 "Assets/Script/Codigos Entorno/EsferasColeccionables/LogicaObjetivosEsferas.cs"
 "Assets/Script/Codigos Notas/ActivadorNotas.cs"
 "Assets/Script/Codigos NPC/LogicaNPC.cs"
+"Assets/Script/Codigos NPC/LogicaNPCDialogos.cs"
 "Assets/Script/Codigos Opciones/LogicaBrillo.cs"
 "Assets/Script/Codigos Opciones/LogicaCalidad.cs"
 "Assets/Script/Codigos Opciones/LogicaPantallaCompleta.cs"
